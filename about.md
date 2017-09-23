@@ -17,6 +17,6 @@ I am proficient in Spanish and am learning Russian.
 ## Contact Me
 
 sramos [at] mit [dot] edu
-[LinkedIn](www.linkedin.com/in/sienna-ramos-b771878b)
+[LinkedIn](https://www.linkedin.com/in/sienna-ramos-b771878b/)
 
 
