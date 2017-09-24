@@ -15,7 +15,7 @@ Graduating in June 2018
 
 ### Current
 *   **6.111** Introductory Digital Systems Laboratory
-*   **6.012** Cellular Neurophysiology
+*   **6.021** Cellular Neurophysiology
 *   **18.211** Combinatorial Analysis
 *   **4.322** Introduction to 3D Art
 
