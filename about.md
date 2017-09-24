@@ -4,7 +4,7 @@ layout: default
 
 # About
 
-![](FullSizeRender.jpg=100x100)
+![](FullSizeRender.jpg){:height="50%" width="50%"}
 
 I'm a senior studying electrical engineering at MIT. 
 Currently, I'm working both as a Lab Assistant for the Introductory Circuits class (6.002),
