@@ -4,7 +4,7 @@ layout: default
 
 # About
 
-![](FullSizeRender.jpg)
+![](FullSizeRender.jpg=250x250)
 
 I'm a senior studying electrical engineering at MIT. 
 Currently, I'm working both as a Lab Assistant for the Introductory Circuits class (6.002),
