@@ -51,7 +51,9 @@ Final Project for 21M.361, Electronic Music Composition I
 
 _October 2016_
 
-Arrangement for Toons. 
+![Past Lives](PastLives.JPG)(https://www.youtube.com/watch?v=2XEimrSmRg8)
+
+An arrangement for a capella based on BØRNS's Past Lives. 
 
 
 ### Water
@@ -60,7 +62,7 @@ _September 2015_
 
 ![Water](Water.JPG)(https://www.youtube.com/watch?v=Q3RcMiOQvb4)
 
-An arrangement for a capella based on Andrew Huang's Water. 
+An arrangement for a capella based on Andrew Huang's [Water](https://www.youtube.com/watch?v=qptGV7finFo). 
 
 
 ### The Human Joystick
