@@ -41,17 +41,20 @@ _May 2017_
 Final Project for 6.115, Microcomputer Project Laboratory
 
 
-### Cycles
+### cycles
 
 _December 2016_
 
-Final Project for 21M.361, Electronic Music Composition I
+[![cycles](21M361.pdf)](https://soundcloud.com/sienna-ramos/cycles-binaural)
+
+Final Project for 21M.361, Electronic Music Composition I. 
+Originally performed in 4 speaker surround sound, this piece is a walk through the repetitive and intense life of an MIT student.
 
 ### Past Lives
 
 _October 2016_
 
-![Past Lives](PastLives.JPG)(https://www.youtube.com/watch?v=2XEimrSmRg8)
+[![Past Lives](PastLives.JPG)](https://www.youtube.com/watch?v=2XEimrSmRg8)
 
 An arrangement for a capella based on BØRNS's Past Lives. 
 
@@ -60,7 +63,7 @@ An arrangement for a capella based on BØRNS's Past Lives.
 
 _September 2015_
 
-![Water](Water.JPG)(https://www.youtube.com/watch?v=Q3RcMiOQvb4)
+[![Water](Water.JPG)](https://www.youtube.com/watch?v=Q3RcMiOQvb4)
 
 An arrangement for a capella based on Andrew Huang's [Water](https://www.youtube.com/watch?v=qptGV7finFo). 
 
