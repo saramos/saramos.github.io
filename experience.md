@@ -31,8 +31,8 @@ January-May 2017, _Cambridge, MA_
 
 ### Program Manager Intern, [Cloud and Enterprise at Microsoft](https://cloud.microsoft.com/en-us/)
 June-September 2016, _Redmond, WA_
-*Worked with developers to design the functional specifications of a search feature for a new product.
-*Researched, wrote, and submitted an academic paper on customer loyalty metrics.
+* Worked with developers to design the functional specifications of a search feature for a new product.
+* Researched, wrote, and submitted an academic paper on customer loyalty metrics.
 
 ### Undergraduate Researcher, [Affective Computing at the MIT Media Lab](https://www.media.mit.edu/groups/affective-computing/overview/)
 October 2015-January 2016, _Cambridge, MA_
