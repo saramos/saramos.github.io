@@ -13,6 +13,8 @@ I'm taking a full [courseload](coursework), as well as working two [on-campus jo
 I'm still involved with [Toons](activities), and am acclimating to a new living group. 
 Can't wait to see how I'll grow this semester.
 
+<sub><sup>September 2017</sup></sub>
+
 * * *
 
 ## I'm back from India!
@@ -26,3 +28,5 @@ My experience abroad was extremely valuable to me.
 I didn't just improve as an engineer;
 I learned a lot about how to handle cultural differences and how to navigate an unfamiliar country.
 I'll miss the food, the colors, and the people.
+
+<sub><sup>August 2017</sup></sub>
