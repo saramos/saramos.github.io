@@ -7,11 +7,9 @@ layout: default
 ## In Progress
 
 ### Adder(f)all
-
-A short, sololess arrangement for a cappella based on Tei Shi's Adder(f)all.
-
 **Status:** Completed, In Rehearsal
 
+A short, sololess arrangement for a cappella based on [Tei Shi's Adder(f)all](https://open.spotify.com/track/3tcpDYxRmUe4O3ylYXl1xM).
 
 ### Heart-Shaped Birthmark
 
@@ -59,6 +57,8 @@ Arrangement for Toons.
 ### Water
 
 _September 2015_
+
+![Water](Water.JPG)(https://www.youtube.com/watch?v=Q3RcMiOQvb4)
 
 An arrangement for a capella based on Andrew Huang's Water. 
 
