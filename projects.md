@@ -73,7 +73,7 @@ I helped her design the survey, and helped consolidate the data once collected.
 
 _December 2016_
 
-[![cycles](21m361.jpg)](https://soundcloud.com/sienna-ramos/cycles-binaural)
+[![cycles](21m361.jpg)](https://soundcloud.com/sienna-ramos/cycles-binaural/s-H8xX7)
 
 Final Project for 21M.361, Electronic Music Composition I. 
 Originally performed in 4 speaker surround sound, this piece is a walk through the repetitive and intense life of an MIT student.
