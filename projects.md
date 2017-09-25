@@ -65,6 +65,8 @@ Xin was studying a person's perception of their body,
 and wanted to build a wearable device that would react to a person's breath by
 playing back either real-time or delayed breath noises. 
 I built the software for the device using Python and Arduino, tested sensors, and helped design the device.
+Once the device was built, Xin ran a study testing emotional responses to using the device.
+I helped her design the survey, and helped consolidated the data once collected.
 
 
 ### cycles
