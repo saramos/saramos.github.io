@@ -4,8 +4,6 @@ layout: default
 
 # Experience
 
-## Electrical Engineering
-
 ### Undergraduate Researcher, [Responsive Environments at the MIT Media Lab](https://www.media.mit.edu/groups/responsive-environments/overview/)
 September 2017-present, _Cambridge, MA_
 * Digitize and archive the circuitry of [Joseph Paradiso's](http://web.media.mit.edu/~joep/) analog synthesizer using Eagle and Altium.
@@ -25,9 +23,6 @@ June-August 2017, _Bangalore, India_
 January-May 2017, _Cambridge, MA_
 * Built a Python program for Arduino to record, process, and react to audio signal data in real time.
 * Designed the physical characteristics of a wearable device.
-
-
-## Other
 
 ### Program Manager Intern, [Cloud and Enterprise at Microsoft](https://cloud.microsoft.com/en-us/)
 June-September 2016, _Redmond, WA_
