@@ -18,6 +18,11 @@ A short, sololess arrangement for a cappella, based on [Tei Shi's Adder(f)all](h
 A short, sololess arrangement for a cappella, based on [Tei Shi's Heart-Shaped Birthmark](https://open.spotify.com/track/28fXpBHSLHV9KFUZlYrd6i).
 
 
+### Analog Synthesizer
+**Status**: Planning
+
+A project in collaboration with [Don Derek Haddad](http://donderek.cc/) and Joe Bergeron at the MIT Media Lab.
+
 
 ### TBD
 
@@ -27,12 +32,12 @@ Final Project for 6.111, Introductory Digital Systems Laboratory
 
 
 
-
 ### TBD
 
 **Status:** Ideation
 
 Final Project for 4.322, Introduction to 3D Art
+
 
 
 ## Completed
@@ -49,6 +54,17 @@ and connected them to a PSoC microcontroller, which translated key and pressure 
 I connected a touch screen to the Intel 8051 microcontroller, 
 which the user could use to select sound quality information (sine, sawtooth, or square wave), as well as the octave of the note.
 All of this information was sent to a laptop running PureData, which consolidated the information from the PSoC and 8051 to generate sounds.
+
+### Introception
+_April 2017_
+
+[![Fluid Interfaces](FluidInterfaces.jpeg)](http://fluid.media.mit.edu/)
+
+Part of [Xin Liu](http://xxxxxxxxxinliu.com/)'s Master's thesis at the MIT Media Lab.
+Xin was studying a person's perception of their body,
+and wanted to build a wearable device that would react to a person's breath by
+playing back either real-time or delayed breath noises. 
+I built the software for the device using Python and Arduino, tested sensors, and helped design the device.
 
 
 ### cycles
