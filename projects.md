@@ -7,7 +7,7 @@ layout: default
 ## In Progress
 
 ### Adder(f)all
-**Status:** Completed, In Rehearsal
+**Status:** Rehearsal
 
 A short, sololess arrangement for a cappella, based on [Tei Shi's Adder(f)all](https://open.spotify.com/track/3tcpDYxRmUe4O3ylYXl1xM).
 
