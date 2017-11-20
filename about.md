@@ -16,7 +16,6 @@ Balance between my technical work and my creative outlets is extremely important
 Before high school, I attended an arts school for five years studying media art, visual art, music, and theater.
 Since then, I've made sure to make art a priority in my life.
 I played piano and alto saxophone before college, and am improving my music knowledge and skills through both acapella and music classes.
-I'm currently taking a 3D art class at the department for Art, Culture, and Technology at MIT.
 
 I have experience working with Verilog, Assembly, C, MATLAB, Python, PureData, SPICE, and LaTeX.
 
