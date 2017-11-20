@@ -6,41 +6,37 @@ layout: default
 
 ## In Progress
 
-### Adder(f)all
-**Status:** Rehearsal
+### FPGA iPad
 
-A short, sololess arrangement for a cappella, based on [Tei Shi's Adder(f)all](https://open.spotify.com/track/3tcpDYxRmUe4O3ylYXl1xM).
+**Status:** Building Modules
 
+Final Project with Alex Leffell for 6.111, Introductory Digital Systems Laboratory.
+We are building a program that will rotate, resize, and translate images on a VGA screen. 
+The user's pinch and twist finger gestures will be recorded by an NTSC camera and translated into commands sent to the image processing module.
+
+### Analog Synthesizer
+**Status:** Research
+
+A project in collaboration with [Don Derek Haddad](http://donderek.cc/) and Joe Bergeron at the MIT Media Lab. We are digitizing and analyzing [Joe Paradiso's](http://web.media.mit.edu/~joep/) analog synthesizers.
+
+### Flammable Instruments
+**Status:** Prototyping
+
+A project in collaboration with [Don Derek Haddad](http://donderek.cc/). We are experimenting with creating an analog synthesizer using resistive material that would burn away as the synthesizer makes music.
 
 ### Heart-Shaped Birthmark
 **Status:** Composition
 
-A short, sololess arrangement for a cappella, based on [Tei Shi's Heart-Shaped Birthmark](https://open.spotify.com/track/28fXpBHSLHV9KFUZlYrd6i).
-
-
-### Analog Synthesizer
-**Status**: Planning
-
-A project in collaboration with [Don Derek Haddad](http://donderek.cc/) and Joe Bergeron at the MIT Media Lab.
-
-
-### TBD
-
-**Status:** Ideation
-
-Final Project for 6.111, Introductory Digital Systems Laboratory
-
-
-
-### TBD
-
-**Status:** Ideation
-
-Final Project for 4.322, Introduction to 3D Art
-
+A sololess arrangement for a cappella, based on [Tei Shi's Heart-Shaped Birthmark](https://open.spotify.com/track/28fXpBHSLHV9KFUZlYrd6i).
 
 
 ## Completed
+
+### Adder(f)all
+
+A sololess arrangement for a cappella, based on [Tei Shi's Adder(f)all](https://open.spotify.com/track/3tcpDYxRmUe4O3ylYXl1xM).
+Video coming soon.
+
 
 ### Pressure Sensitive MIDI Controller
 
@@ -58,9 +54,9 @@ All of this information was sent to a laptop running PureData, which consolidate
 ### Introception
 _April 2017_
 
-[![Fluid Interfaces](FluidInterfaces.jpeg)](http://fluid.media.mit.edu/)
+![Fluid Interfaces](FluidInterfaces.jpeg)
 
-Part of [Xin Liu](http://xxxxxxxxxinliu.com/)'s Master's thesis at the MIT Media Lab.
+Part of [Xin Liu](http://xxxxxxxxxinliu.com/)'s Master's thesis in the [Fluid Interfaces Group](http://fluid.media.mit.edu/) at the MIT Media Lab.
 Xin was studying a person's perception of their body,
 and wanted to build a wearable device that would react to a person's breath by
 playing back either real-time or delayed breath noises. 
@@ -73,35 +69,35 @@ I helped her design the survey, and helped consolidate the data once collected.
 
 _December 2016_
 
-[![cycles](21m361.jpg)](https://soundcloud.com/sienna-ramos/cycles-binaural/s-H8xX7)
+![cycles](21m361.jpg)
 
-Final Project for 21M.361, Electronic Music Composition I. 
+[Final Project for 21M.361, Electronic Music Composition I.](https://soundcloud.com/sienna-ramos/cycles-binaural/s-H8xX7)
 Originally performed in 4 speaker surround sound, this piece is a walk through the repetitive and intense life of an MIT student.
 
 ### Past Lives
 
 _October 2016_
 
-[![Past Lives](PastLives.JPG)](https://www.youtube.com/watch?v=2XEimrSmRg8)
+![Past Lives](PastLives.JPG)
 
-An arrangement for a capella, based on [BØRNS's Past Lives](https://www.youtube.com/watch?v=Cux2qJjApGA). 
+An [arrangement](https://www.youtube.com/watch?v=2XEimrSmRg8) for a capella, based on [BØRNS's Past Lives](https://www.youtube.com/watch?v=Cux2qJjApGA). 
 
 
 ### Water
 
 _September 2015_
 
-[![Water](Water.PNG)](https://www.youtube.com/watch?v=Q3RcMiOQvb4)
+![Water](Water.PNG)
 
-An arrangement for a capella, based on [Andrew Huang's Water](https://www.youtube.com/watch?v=qptGV7finFo). 
+An [arrangement](https://www.youtube.com/watch?v=Q3RcMiOQvb4) for a capella, based on [Andrew Huang's Water](https://www.youtube.com/watch?v=qptGV7finFo). 
 
 
 ### The Human Joystick
 _January 2015_
 
-[![More information about the Momentum Program](Momentum.jpg)](https://www.youtube.com/watch?v=3r4bBjWD5IQ)
+![Momentum](momentumposter.jpg)
 
-Project for 16.682, Momentum. 
+Project for 16.682, [Momentum: Brain-Computer Interfaces](https://www.youtube.com/watch?v=3r4bBjWD5IQ). 
 I worked on a team of four to build a robot which used signals from muscle movements to control a robotic arm. 
 As the team's Hardware specialist, I was in charge of assembling the robot, designing how input would be filtered,
 and writing programs in C for various functions. I was also the point person for budget management and part acquisition.
@@ -112,9 +108,9 @@ We gave a presentation and a poster session about our project.
 
 _December 2014_
 
-[![Terrascope](Terrascope.JPG)](https://terrascope.mit.edu/)
+![Terrascope](Terrascope.JPG)
 
-Project for 12.000, Solving Complex Problems.
+Project for 12.000, [Solving Complex Problems](https://terrascope.mit.edu/).
 I researched energy policy in China for my team of 50 to develop an energy portfolio for the world.
 
 
