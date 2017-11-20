@@ -13,11 +13,10 @@ Concentration in Music (21M-1)
 
 Graduating in June 2018
 
-### Current
+### Fall 2017
 *   **6.111** Introductory Digital Systems Laboratory
 *   **6.021** Cellular Neurophysiology
 *   **18.211** Combinatorial Analysis
-*   **4.322** Introduction to 3D Art
 
 ### Spring 2017
 *   **6.115** Microcomputer Project Laboratory
