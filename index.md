@@ -22,7 +22,7 @@ Can't wait to see how I'll grow this semester!
 ![](India.JPG)
 
 I spent the summer in Bangalore, India, working for [Jana Care](http://www.janacare.com/),
-a medical technology startup which aims to make monitoring diabetes cheaper and more convenient.
+a medical technology startup which aims to make monitoring diabetes cheaper and easier for both doctors and patients.
 Outside of work, I was exploring South India and keeping a [travel blog](http://siennayaygoesaway.wordpress.com). 
 My experience abroad was extremely valuable to me. 
 I didn't just improve as an engineer;
