@@ -6,14 +6,6 @@ layout: default
 
 ## In Progress
 
-### FPGA iPad
-
-**Status:** Building Modules
-
-Final Project with Alex Leffell for 6.111, Introductory Digital Systems Laboratory.
-We are building a program that will rotate, resize, and translate images on a VGA screen. 
-The user's pinch and twist finger gestures will be recorded by an NTSC camera and translated into commands sent to the image processing module.
-
 ### Analog Synthesizer
 **Status:** Research
 
@@ -31,6 +23,14 @@ A sololess arrangement for a cappella, based on [Tei Shi's Heart-Shaped Birthmar
 
 
 ## Completed
+
+### FPGA iPad
+_December 2017_
+
+Final Project with Alex Leffell for 6.111, Introductory Digital Systems Laboratory.
+We are building a program that will rotate, resize, and translate images on a VGA screen. 
+The user's pinch and twist finger gestures are recorded by an NTSC camera and translated into commands sent to the image processing module.
+
 
 ### Adder(f)all
 _October 2017_
