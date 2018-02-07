@@ -13,6 +13,12 @@ Concentration in Music (21M-1)
 
 Graduating in June 2018
 
+### Spring 2018 (Current)
+*   **6.302** Feedback System Design
+*   **18.650** Fundamentals of Statistics
+*   **21L.490** Introduction to Classic Russian Literature
+*   **24.231** Ethics
+
 ### Fall 2017
 *   **6.111** Introductory Digital Systems Laboratory
 *   **6.021** Cellular Neurophysiology
