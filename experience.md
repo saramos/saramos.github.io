@@ -4,14 +4,18 @@ layout: default
 
 # Experience
 
+### Lab Assistant, [6.115: Microcomputer Project Laboratory](http://web.mit.edu/6.115/www/)
+February 2018 - present, _Cambridge, MA_
+* Evaluate students' understanding of lab material.
+* Debug circuits and answer questions about lab assignments.
+
 ### Undergraduate Researcher, [Responsive Environments at the MIT Media Lab](https://www.media.mit.edu/groups/responsive-environments/overview/)
-September 2017 - present, _Cambridge, MA_
+September - December 2017, _Cambridge, MA_
 * Digitize and archive the circuitry of [Joseph Paradiso's](http://web.media.mit.edu/~joep/) analog synthesizer using [Eagle](https://www.autodesk.com/products/eagle/overview) and [Altium](http://www.altium.com/).
 * Create board layouts inspired by Paradiso's circuits, and hand assemble an analog synthesizer at the Media Lab.
-* Design a musical instrument for [New Interfaces for Musical Expression](http://www.nime.org/) Conference 2017.
 
 ### Lab Assistant, [6.002: Circuits and Electronics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/)
-September 2017 - present, _Cambridge, MA_
+September - December 2017, _Cambridge, MA_
 * Guide students through the weekly lab assignments, and test their understanding of the material upon completion.
 * Test online homework and write explanations for homework answers.
 
