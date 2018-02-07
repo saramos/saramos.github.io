@@ -7,8 +7,7 @@ layout: default
 ![](FullSizeRender.jpg){:height="30%" width="30%"}
 
 I'm a senior studying electrical engineering at MIT. 
-Currently, I'm working both as a Lab Assistant for the Introductory Circuits class (6.002),
-and as an Undergraduate Researcher with the Responsive Environments Group at the MIT Media Lab.
+Currently, I'm working as a Lab Assistant for the Microcomputer Lab class (6.115).
 Within electrical engineering, I am particularly interested in embedded systems and firmware architecure, as well as signal processing.
 I also have an interest in probability and stochastics.
 
