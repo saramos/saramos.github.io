@@ -10,7 +10,7 @@ layout: default
 _December 2017_
 
 Final Project with Alex Leffell for 6.111, Introductory Digital Systems Laboratory.
-We built a program that rotates, resizes, and translates images on a VGA screen. 
+We built a program in Verilog that rotates, resizes, and translates images on a VGA screen. 
 The user's pinch and twist finger gestures are recorded by an NTSC camera and translated into commands sent to the image processing module.
 
 
