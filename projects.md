@@ -4,24 +4,6 @@ layout: default
 
 # Projects
 
-## In Progress
-
-### Analog Synthesizer
-**Status:** Research
-
-A project in collaboration with [Don Derek Haddad](http://donderek.cc/) and Joe Bergeron at the MIT Media Lab. We are digitizing and analyzing [Joe Paradiso's](http://web.media.mit.edu/~joep/) analog synthesizers.
-
-### Flammable Instruments
-**Status:** Prototyping
-
-A project in collaboration with [Don Derek Haddad](http://donderek.cc/). We are experimenting with creating an analog synthesizer using resistive material that would burn away as the synthesizer makes music.
-
-### Heart-Shaped Birthmark
-**Status:** Composition
-
-A sololess arrangement for a cappella, based on [Tei Shi's Heart-Shaped Birthmark](https://open.spotify.com/track/28fXpBHSLHV9KFUZlYrd6i).
-
-
 ## Completed
 
 ### FPGA iPad
