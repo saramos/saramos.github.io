@@ -4,6 +4,14 @@ layout: default
 
 # Updates
 
+## Panelist about Study Abroad Programs at MIT
+
+I had the opportunity to represent MIT International Science and Technology Initiative ([MISTI](http://misti.mit.edu/)) on a panel about study abroad opportunities at MIT. It was great to talk to prospective students and parents about my experiences working abroad. Thank you to MIT-India for inviting me!
+
+<sub><sup>April 2018</sup></sub>
+
+* * *
+
 ## Start of Senior Year
 
 ![](MIT.jpg)
