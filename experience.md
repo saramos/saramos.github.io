@@ -4,11 +4,24 @@ layout: default
 
 # Experience
 
+### Development Engineer, [Cascodium](https://cascodium.com/)
+September 2018 - present, _Andover, MA_
+* Develop, simulate, analyze, fabricate, test, and evaluate custom electronics.
+* Firmware development in C.
+
+
+### Residential Tutor, [Women's Technology Program in EECS at MIT](http://wtp.mit.edu/eecs/)
+June - July 2018, _Cambridge, MA_
+* Guided students through electrical engineering labs.
+* Held office hours.
+* Lived with students and organized outings and events.
+
+
 ### Lab Assistant, [6.115: Microcomputer Project Laboratory](http://web.mit.edu/6.115/www/)
-February 2018 - present, _Cambridge, MA_
-* Debug students' circuits and Assembly code.
-* Answer questions about using the Intel 8051. 
-* Grade assignments.
+February - May 2018, _Cambridge, MA_
+* Debugged students' circuits and Assembly code.
+* Answered questions about using the Intel 8051. 
+* Graded assignments.
 
 
 ### Undergraduate Researcher, [Responsive Environments at the MIT Media Lab](https://www.media.mit.edu/groups/responsive-environments/overview/)
