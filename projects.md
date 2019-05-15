@@ -6,6 +6,12 @@ layout: default
 
 ## Completed
 
+### AcaPalette
+_October 2018_
+
+Finalist at the [Hacking Arts Hackathon and Conference](https://arts.mit.edu/start/entrepreneurship/hacking-arts/) hosted at the MIT Media Lab. Intense emotions, such as anger, cause the speaking voice to deepen and sound more tense. Using sound processing, we can identify when a speaker is experiencing an intense emotion, and map this emotion to a color display. Potential application for an art installation to question the nature of arguments.
+
+
 ### FPGA iPad
 _December 2017_
 
