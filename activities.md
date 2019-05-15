@@ -4,8 +4,13 @@ layout: default
 
 # Activities
 
+## MIT Office of Engineering Outreach Programs
+_January 2019 - present_
+
+- Volunteer: Read student applications, conducted interviews, and observed mock classes.
+
 ## MIT/Wellesley Toons
-September 2014-present
+_September 2014-May 2018_
 
 ![](Toons.jpg)
 
@@ -14,7 +19,8 @@ September 2014-present
 - Treasurer, _Fall 2016_: Managed group finances.
 - Acapella Showcase Chair, _Spring 2016_: Organized the spring showcase concert for the 11 MIT acapella groups.
 - Arrangements
-	- Adder(f)all, Tei Shi _Fall 2017_
+	- A Movie Script Ending, Death Cab For Cutie, _Spring 2019_
+	- [Adder(f)all](https://www.youtube.com/watch?v=Qvf9PNrvMBE), Tei Shi _Fall 2017_
 	- [Past Lives](https://www.youtube.com/watch?v=2XEimrSmRg8), BØRNS, _Fall 2016_
 	- [Water](https://www.youtube.com/watch?v=Q3RcMiOQvb4), Andrew Huang, _Fall 2015_
 - Solos
@@ -24,7 +30,7 @@ September 2014-present
 	- [1901](https://www.youtube.com/watch?v=hReplcibZoU), Phoenix, _Fall 2014_
 
 ## Food Veep for Steer Roast
-Spring 2015 and 2016
+_Spring 2015 and 2016_
 
 ![](SteerRoast.jpg)
 
@@ -34,7 +40,7 @@ Spring 2015 and 2016
 
 
 ## Musical Theater Guild
-Spring 2015 and January 2016
+_Spring 2015 and January 2016_
 
 ![](SpringAwakening.jpg)
 * Thea in _Spring Awakening_.
