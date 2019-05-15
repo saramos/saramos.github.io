@@ -5,13 +5,13 @@ layout: default
 
 ## Massachusetts Institute of Technology
 
-B.S. Candidate studying Electrical Engineering (6-1)
+Bachelor of Science in Electrical Engineering (6-1)
 
 Minor in Mathematics (18)
 
 Concentration in Music (21M-1)
 
-Graduating in June 2018
+Graduated in June 2018
 
 ### Spring 2018
 *   **6.302** Feedback System Design
