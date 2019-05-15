@@ -6,9 +6,16 @@ layout: default
 
 ### Development Engineer, [Cascodium](https://cascodium.com/)
 September 2018 - present, _Andover, MA_
-* Develop, simulate, analyze, fabricate, test, and evaluate custom electronics.
-* Firmware development in C.
+* Develop, simulate, analyze, fabricate, test, and evaluate custom electronics. 
+*	Design both schematics and layout of printed circuit boards in Altium.
+*	Develop firmware in C for microcontrollers, using firmware architectures such as Real-Time Operating System and finite state machines.
+*	Develop graphical user interfaces using C++.
 
+
+### Mentor, A Glimpse of 2.009
+May 2019, _Cambridge, MA_
+* Guided a group of 11 middle school students through a day-long design and build workshop modeled after MIT's mechanical engineering capstone class, [2.009](http://web.mit.edu/2.009/www/index.html).
+* Students followed the IDEATE-MODEL-TEST process to design an assistive technology prototype.
 
 ### Residential Tutor, [Women's Technology Program in EECS at MIT](http://wtp.mit.edu/eecs/)
 June - July 2018, _Cambridge, MA_
