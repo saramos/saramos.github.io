@@ -6,10 +6,16 @@ layout: default
 
 ## Completed
 
+### A Movie Script Ending
+_March 2019_
+Co-wrote an arrangement for a cappella, based on [Death Cab For Cutie's A Movie Script Ending](https://www.youtube.com/watch?v=DmsEAWQwHY4).
+
+
 ### AcaPalette
 _October 2018_
+![](acapalette.jpg)
 
-Finalist at the [Hacking Arts Hackathon and Conference](https://arts.mit.edu/start/entrepreneurship/hacking-arts/) hosted at the MIT Media Lab. Intense emotions, such as anger, cause the speaking voice to deepen and sound more tense. Using sound processing, we can identify when a speaker is experiencing an intense emotion, and map this emotion to a color display. Potential application for an art installation to question the nature of arguments.
+Finalist at the [Hacking Arts Hackathon and Conference](https://arts.mit.edu/start/entrepreneurship/hacking-arts/) hosted at the MIT Media Lab. Intense emotions, such as anger, cause the speaking voice to deepen and sound more tense. Using sound processing, we can identify when a speaker is experiencing an intense emotion, and map this emotion to a color display. Potential application for an art installation to question the nature of arguments. What are the emotional differences between a long argument that fills the display with vibrant colors, or an argument that keeps the display colorless for as long as possible?
 
 
 ### FPGA iPad
@@ -23,9 +29,7 @@ The user's pinch and twist finger gestures are recorded by an NTSC camera and tr
 ### Adder(f)all
 _October 2017_
 
-A sololess arrangement for a cappella, based on [Tei Shi's Adder(f)all](https://open.spotify.com/track/3tcpDYxRmUe4O3ylYXl1xM).
-Video coming soon.
-
+A sololess [arrangement](https://www.youtube.com/watch?v=Qvf9PNrvMBE) for a cappella, based on [Tei Shi's Adder(f)all](https://open.spotify.com/track/3tcpDYxRmUe4O3ylYXl1xM).
 
 ### Pressure Sensitive MIDI Controller
 
