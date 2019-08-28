@@ -2,39 +2,28 @@
 layout: default
 ---
 
-# Updates
+# About
 
-## Panelist about Study Abroad Programs at MIT
+![](FullSizeRender.jpg){:height="30%" width="30%"}
 
-I had the opportunity to represent MIT International Science and Technology Initiative ([MISTI](http://misti.mit.edu/)) on a panel about study abroad opportunities at MIT. It was great to talk to prospective students and parents about my experiences working abroad. Thank you to MIT-India for inviting me!
+I am currently a Development Engineer at Cascodium, where I develop firmware, design PCBs, and make GUIs.
+I recently graduated from MIT with my bachelor's in electrical engineering. 
+Within electrical engineering, I am particularly interested in embedded systems and firmware architecure, as well as digital signal processing.
+I also have an interest in probability and stochastics.
 
-<sub><sup>April 2018</sup></sub>
+Balance between my technical work and my creative outlets is extremely important to me.
+Before high school, I attended an arts school for five years studying media art, visual art, music, and theater.
+Since then, I've made sure to make art a priority in my life.
+I played piano and alto saxophone before college, and am imroving my music knowledge and skills through both acapella and music classes.
+I'm currently brushing up on my visual arts skills by taking drawing classes and giving myself art challenges.
 
-* * *
+I have experience working with C, C++, MATLAB, Python, PureData, LaTeX, and Verilog, Assembly.
 
-## Start of Senior Year
+I am proficient in Spanish and am learning Russian.
 
-![](MIT.jpg)
+## Contact Me
 
-I'm really excited to start my last year as an undergrad at MIT. As always, I'm keeping [busy](projects) this semester.
-I'm taking a full [courseload](coursework), as well as working two [on-campus jobs](experience).
-I'm still [involved](activities) with Toons, and am acclimating to a new living group. 
-Can't wait to see how I'll grow this semester!
+sramos@alum.mit.edu
 
-<sub><sup>September 2017</sup></sub>
+[LinkedIn](https://www.linkedin.com/in/sienna-ramos-b771878b/)
 
-* * *
-
-## I'm back from India
-
-![](India.JPG)
-
-I spent the summer in Bangalore, India, working for [Jana Care](http://www.janacare.com/),
-a medical technology startup which aims to make monitoring diabetes cheaper and easier for both doctors and patients.
-Outside of work, I was exploring South India and keeping a [travel blog](http://siennayaygoesaway.wordpress.com). 
-My experience abroad was extremely valuable to me. 
-I didn't just improve as an engineer;
-I learned a lot about how to handle cultural differences and how to navigate an unfamiliar country.
-I'll miss the food, the colors, and the people, and am looking forward to the next time I travel back.
-
-<sub><sup>August 2017</sup></sub>
