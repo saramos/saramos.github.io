@@ -14,7 +14,7 @@ I also have an interest in probability and stochastics.
 Balance between my technical work and my creative outlets is extremely important to me.
 Before high school, I attended an arts school for five years studying media art, visual art, music, and theater.
 Since then, I've made sure to make art a priority in my life.
-I played piano and alto saxophone before college, and am imroving my music knowledge and skills through both acapella and music classes.
+I played piano and alto saxophone before college, and am improving my music knowledge and skills through both acapella and music classes.
 I'm currently brushing up on my visual arts skills by taking drawing classes and giving myself art challenges.
 
 I have experience working with C, C++, MATLAB, Python, PureData, LaTeX, and Verilog, Assembly.
